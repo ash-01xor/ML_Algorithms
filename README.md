@@ -5,6 +5,10 @@ Algorithms and Models implemented
 - Dataset : [Segmenation Data](K-Means/segmentation%20data.csv)
 - Notebook : [K-means implemenation](K-Means/k-means.ipynb)
 
+### KNN
+- Notebook:
+  [KNN](KNN/knn-scratch.ipynb)
+
 ### Recommendation Systems:
 - Content-Based:
     - Dataset:
