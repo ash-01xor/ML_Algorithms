@@ -1,6 +1,9 @@
 # ML_Algorithms
 Algorithms and Models implemented
 
+### Linear Regression
+- Python Script : [Linear-Regression](Linear_Reg/linear_reg.py)
+
 ### K-Means:
 - Dataset : [Segmenation Data](K-Means/segmentation%20data.csv)
 - Notebook : [K-means implemenation](K-Means/k-means.ipynb)
