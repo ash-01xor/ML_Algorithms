@@ -12,6 +12,10 @@ Algorithms and Models implemented
 - Notebook:
   [KNN](KNN/knn-scratch.ipynb)
 
+### Perceptron:
+- Notebook:
+  [Perceptron Numpy](Perceptron/Perceptron_numpy.ipynb)
+
 ### Recommendation Systems:
 - Content-Based:
     - Dataset:
